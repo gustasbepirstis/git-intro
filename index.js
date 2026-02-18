@@ -8,3 +8,4 @@ function iWillDefinitelyHaveConflicts(a, b) {
 
 console.log(iWillDefinitelyHaveConflicts(10, 12));
 console.log(iWillDefinitelyHaveConflicts(10, 12));
+// just checking
